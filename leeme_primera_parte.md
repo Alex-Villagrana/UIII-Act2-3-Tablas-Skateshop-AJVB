@@ -7,11 +7,11 @@ Editor: VS Code
 
 1 Procedimiento para crear carpeta del Proyecto:
 
-UIII_Skateshop_0777
+UIII_Skateshop_0402
 
 2 Procedimiento para abrir VS Code sobre la carpeta
 
-UIII_Skateshop_0777
+UIII_Skateshop_0402
 
 3 Procedimiento para abrir terminal en VS Code
 4 Procedimiento para crear carpeta entorno virtual “.venv” desde terminal de VS Code
@@ -124,4 +124,4 @@ Código de las páginas web sencillo.
 29 No validar entrada de datos.
 30 Al inicio crear la estructura completa de carpetas y archivos.
 31 Proyecto totalmente funcional.
-32 Finalmente ejecutar servidor en el puerto 8036.
+32 Finalmente ejecutar servidor en el puerto 8043.
